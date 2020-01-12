@@ -1,0 +1,14 @@
+﻿Find tutorials to go through specific lessons
+Zip solution and upload after lesson
+Students can follow along  but won't be expected to, as code will be available with comments after.
+
+Try a lesson where we pick an idea and just do it on the spot. (focus discussing specific points of language based on week)
+
+
+Keep code open on surface start new project on the computer at school******
+
+In class project ideas:
+Mortgage calculator
+Calculator
+Ohms law calculator
+Other equation calculators
